@@ -5047,11 +5047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Api\\Chronos.Api.csproj",
+      "projectUniqueName": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Chronos.Api.csproj",
       "projectName": "Chronos.Api",
-      "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Api\\Chronos.Api.csproj",
+      "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Chronos.Api.csproj",
       "packagesPath": "C:\\Users\\zsant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Api\\obj\\",
+      "outputPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5073,11 +5073,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos,CrossCutting\\Chronos.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos,CrossCutting\\Chronos.CrossCutting.csproj"
+            "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos,CrossCutting\\Chronos.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos,CrossCutting\\Chronos.CrossCutting.csproj"
             },
-            "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Application\\Chronos.Application.csproj": {
-              "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Application\\Chronos.Application.csproj"
+            "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Chronos.Application.csproj": {
+              "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Chronos.Application.csproj"
             }
           }
         }

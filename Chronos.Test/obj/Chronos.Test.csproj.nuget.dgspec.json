@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Test\\Chronos.Test.csproj": {}
+    "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Test\\Chronos.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Test\\Chronos.Test.csproj": {
+    "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Test\\Chronos.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Test\\Chronos.Test.csproj",
+        "projectUniqueName": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Test\\Chronos.Test.csproj",
         "projectName": "Chronos.Test",
-        "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Test\\Chronos.Test.csproj",
+        "projectPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Test\\Chronos.Test.csproj",
         "packagesPath": "C:\\Users\\zsant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Test\\obj\\",
+        "outputPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

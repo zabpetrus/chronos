@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qh3suYJIs7A=",
+  "dgSpecHash": "gPOlG19Aff0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zsant\\source\\repos\\Chronos.Api\\Chronos.Infraestructure\\Chronos.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Infraestructure\\Chronos.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zsant\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\zsant\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -5,12 +5,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Chronos.Domain.Entities;
 using Chronos.Domain.Entities._Base.Interface;
 using Chronos.Domain.Entities._Base.Main;
+using Chronos.Domain.Enum;
 using Microsoft.AspNetCore.Identity;
 
 [Table("Usuarios")]
-public class Usuario : IdentityUser<long>, IEntity<IdentityUser<long>, Entity>
+public class Usuario : IdentityUser<long>, IEntity<IdentityUser, Entity>
 {
     [Required]
     [MaxLength(100)]
@@ -49,9 +51,11 @@ public class Usuario : IdentityUser<long>, IEntity<IdentityUser<long>, Entity>
     [MaxLength(512)]
     public string RefreshToken { get; set; } = String.Empty;
 
-    public ICollection<string> Perfis { get; private set; } = new List<string>();
+    public ICollection<Perfis> Perfis { get; private set; } = new List<Perfis>();
 
-  
+    public TipoUsuario Tipo_Usuario { get; set; }
+
+
     // Define a senha e gera o hash
     public void DefinirSenha(string senha)
     {
@@ -63,7 +67,7 @@ public class Usuario : IdentityUser<long>, IEntity<IdentityUser<long>, Entity>
     }
 
     // Adiciona um perfil ao usuário
-    public void AdicionarPerfil(string perfil)
+    public void AdicionarPerfil(Perfis perfil)
     {
         if (!Perfis.Contains(perfil))
         {
@@ -72,7 +76,7 @@ public class Usuario : IdentityUser<long>, IEntity<IdentityUser<long>, Entity>
     }
 
     // Remove um perfil do usuário
-    public void RemoverPerfil(string perfil)
+    public void RemoverPerfil(Perfis perfil)
     {
         if (Perfis.Contains(perfil))
         {

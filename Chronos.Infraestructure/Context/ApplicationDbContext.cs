@@ -18,19 +18,20 @@ namespace Chronos.Infraestructure.Context
         {
         }
 
-        DbSet<UsuariosInternos> UsuariosInternos { get; set; }
-        DbSet<UsuariosExternos> UsuariosExternos { get; set; }
-        DbSet<PerfisInternos> PerfisInternos { get; set; }
-        DbSet<PerfisExternos> PerfisExternos { get; set; }
+        DbSet<Usuario> Usuarios { get; set; }
+        DbSet<Perfis> Perfis { get; set; }            
+        DbSet<Categorias> Categorias { get; set; }
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new PerfisExternosMap());
-            modelBuilder.ApplyConfiguration(new PerfisInternosMap());
-            modelBuilder.ApplyConfiguration(new UsuariosExternosMap());
-            modelBuilder.ApplyConfiguration(new UsuariosInternosMap());
+            modelBuilder.ApplyConfiguration(new PerfisMap());
+            modelBuilder.ApplyConfiguration(new UsuariosMap());
 
-         }
+            base.OnModelCreating(modelBuilder);
+
+        }
 
 
 
