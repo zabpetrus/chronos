@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chronos.Api.props" />
+</Project>

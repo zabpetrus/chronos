@@ -1,0 +1,4 @@
+C:\Users\zsant\source\repos\Chronos.Api\Chronos.CrossCutting.Security\obj\Debug\net8.0\Chronos.CrossCutting.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsant\source\repos\Chronos.Api\Chronos.CrossCutting.Security\obj\Debug\net8.0\Chronos.CrossCutting.Security.AssemblyInfoInputs.cache
+C:\Users\zsant\source\repos\Chronos.Api\Chronos.CrossCutting.Security\obj\Debug\net8.0\Chronos.CrossCutting.Security.AssemblyInfo.cs
+C:\Users\zsant\source\repos\Chronos.Api\Chronos.CrossCutting.Security\obj\Debug\net8.0\Chronos.CrossCutting.Security.csproj.CoreCompileInputs.cache
