@@ -227,7 +227,6 @@ C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Memory.D
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -297,8 +296,8 @@ C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Applica
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.CrossCutting.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Domain.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Infraestructure.dll
-C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.CrossCutting.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Application.pdb
+C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.CrossCutting.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Domain.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\bin\Debug\net8.0\Chronos.Infraestructure.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.Api\obj\Debug\net8.0\Chronos.Api.csproj.AssemblyReference.cache

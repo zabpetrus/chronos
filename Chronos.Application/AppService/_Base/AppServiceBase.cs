@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Chronos.Application.AppService._Base
 {
-    public class AppServiceBase <T, P> : _IAppServiceBase<T> where T : class where P : class
+    public class AppServiceBase <T, P> : IAppServiceBase<T> where T : class where P : class
     {
     }
 }

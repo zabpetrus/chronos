@@ -1,5 +1,5 @@
 ﻿using Chronos.Domain.Entities;
-using Chronos.Domain.Interfaces.Repository._Base.Shared;
+using Chronos.Domain.Interfaces.Repository._Base;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Chronos.Domain.Interfaces.Services
 {
-    public interface IPerfilService : IRepositoryBase<Perfis, IdentityRole>
+    public interface IPerfilService : IRepositoryBase<Perfil>
     {
     }
 }

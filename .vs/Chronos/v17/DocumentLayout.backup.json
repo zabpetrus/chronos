@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\chronos.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\chronos.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\services\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\services\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\profiles\\usuariosprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\profiles\\usuariosprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\profiles\\perfisprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\profiles\\perfisprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAHMIAAAAAAAAAAAcwH8IAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-18T16:10:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chronos.CrossCutting",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Chronos.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Chronos.CrossCutting.csproj",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Chronos.CrossCutting.csproj",
+              "RelativeToolTip": "Chronos.CrossCutting\\Chronos.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T16:09:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Services\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\DependencyInjectionService.cs",
+              "RelativeToolTip": "Chronos.CrossCutting\\Services\\DependencyInjectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:09:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:09:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Profiles\\UsuariosProfile.cs",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Profiles\\UsuariosProfile.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Profiles\\UsuariosProfile.cs",
+              "RelativeToolTip": "Chronos.CrossCutting\\Profiles\\UsuariosProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:09:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfisProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Profiles\\PerfisProfile.cs",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Profiles\\PerfisProfile.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Profiles\\PerfisProfile.cs",
+              "RelativeToolTip": "Chronos.CrossCutting\\Profiles\\PerfisProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:09:06.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

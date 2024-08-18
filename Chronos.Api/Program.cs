@@ -13,14 +13,9 @@ builder.Services.AddControllers();
 var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContextPool<ApplicationDbContext>(options => options.UseSqlServer(connection));
 
-
-builder.Services.AddIdentity<Usuario, Perfis>(options =>
-{
-    // Configurações do Identity
-})
-.AddEntityFrameworkStores<ApplicationDbContext>()
-.AddDefaultTokenProviders();
-
+builder.Services.AddIdentity<Usuario, Perfil>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
 
 builder.Services.Configure<IdentityOptions>(options =>
 {

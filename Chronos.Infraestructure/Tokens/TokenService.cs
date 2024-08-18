@@ -1,4 +1,5 @@
-﻿using Chronos.Infraestructure.Context;
+﻿using Chronos.Domain.Entities;
+using Chronos.Infraestructure.Context;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -101,6 +102,11 @@ namespace Chronos.Infraestructure.Tokens
         }
 
         public Task<string> GenerateTokenAsync(string userName, string password)
+        {
+            throw new NotImplementedException();
+        }
+
+        Usuario ITokenService.GetUserByEmail(string email)
         {
             throw new NotImplementedException();
         }

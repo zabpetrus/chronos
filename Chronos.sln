@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.Infraestructure", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.Test", "Chronos.Test\Chronos.Test.csproj", "{D2EE223B-7F4C-4F23-B674-56A7B92F2726}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.CrossCutting", "Chronos,CrossCutting\Chronos.CrossCutting.csproj", "{F557B1A6-A73F-4E17-81BB-4B648E89BA9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.CrossCutting", "Chronos.CrossCutting\Chronos.CrossCutting.csproj", "{B25B7222-5379-4BC9-A4D4-D742D2EC307A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{D2EE223B-7F4C-4F23-B674-56A7B92F2726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2EE223B-7F4C-4F23-B674-56A7B92F2726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2EE223B-7F4C-4F23-B674-56A7B92F2726}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F557B1A6-A73F-4E17-81BB-4B648E89BA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F557B1A6-A73F-4E17-81BB-4B648E89BA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F557B1A6-A73F-4E17-81BB-4B648E89BA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F557B1A6-A73F-4E17-81BB-4B648E89BA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

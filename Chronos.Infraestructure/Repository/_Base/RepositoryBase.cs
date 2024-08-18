@@ -1,5 +1,5 @@
-﻿using Chronos.Domain.Entities._Base.Main;
-using Chronos.Domain.Interfaces.Repository._Base.Shared;
+﻿using Chronos.Domain.Entities;
+using Chronos.Domain.Interfaces.Repository._Base;
 using Chronos.Infraestructure.Context;
 using Chronos.Infraestructure.Tokens;
 using Flunt.Notifications;
@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Chronos.Infraestructure.Repository._Base
 {
-    public abstract class RepositoryBase<T, P> : Notifiable<Notification>, IRepositoryBase<T, P> where T : class where P : class
+    public abstract class RepositoryBase<T, P> : Notifiable<Notification>, IRepositoryBase<T> where T : class 
     {
         protected readonly ApplicationDbContext _context;
         private readonly ITokenService _tokenService;
