@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Chronos.Domain.Entities._Main
@@ -15,11 +16,22 @@ namespace Chronos.Domain.Entities._Main
 
         public string Email { get; set; }
 
-        public string Cpf { get; set; }
+        public string Cpf
+        {
+            get { return _cpf; }
+            set
+            {
+                _cpf = Regex.Replace(value ?? string.Empty, @"[^\d]", "");
+            }
+        }
+
+        private string _cpf;
 
         private string SenhaHash { get; set; }
 
         private string Sal { get; set; }
+
+                      
 
 
         // Método para definir a senha com hash e sal

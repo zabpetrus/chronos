@@ -1,5 +1,6 @@
 ﻿using Chronos.Application.Interfaces;
 using Chronos.Application.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,6 +24,7 @@ namespace Chronos.Api.Controllers
         /// Get All
         /// </summary>
         /// <returns>An IActionResult.</returns>
+        [Authorize]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -34,6 +36,7 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="id">An Id</param>
         /// <returns>An IActionResult.</returns>
+        [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetById(long id)
         {
@@ -46,6 +49,7 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="model">A Model</param>
         /// <returns>An IActionResult.</returns>
+        [Authorize]
         [HttpPost]
         public IActionResult Create([FromBody] UsuarioInternoViewModel model)
         {
@@ -58,7 +62,8 @@ namespace Chronos.Api.Controllers
         /// Update
         /// </summary>
         /// <param name="model">A Model</param>
-        /// <returns>An IActionResult.</returns>
+        /// <returns>An IActionResult.</returns
+        [Authorize]
         [HttpPut]
         public IActionResult Update([FromBody] UsuarioInternoViewModel model)
         {
@@ -70,6 +75,7 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="id">An Id</param>
         /// <returns>An IActionResult.</returns>
+        [Authorize]
         [HttpDelete]
         public IActionResult DeleteById(long id)
         {

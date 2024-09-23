@@ -19,8 +19,26 @@ namespace Chronos.Infraestructure.Repository
 
         public override UsuarioExterno Create(UsuarioExterno model)
         {
-           var user = _databaseContext.Add(model).Entity;
-            return user;
+            try
+            {
+                // Adiciona a entidade ao DbContext
+                var user = _databaseContext.Add(model).Entity;
+
+                // Persiste a alteração no banco de dados
+                _databaseContext.SaveChanges();
+
+                // Retorna a entidade criada
+                return user;
+            }
+            catch (Exception ex)
+            {
+                // Log de erro (opcional)
+                // _logger.LogError(ex, "Erro ao criar o usuário externo");
+
+                // Re-levanta a exceção para tratamento externo
+                throw new Exception("Erro ao criar o usuário externo.", ex);
+            }
         }
     }
+
 }

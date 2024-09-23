@@ -9,6 +9,6 @@ namespace Chronos.Application.Tokens
 {
     public interface ITokenService
     {
-        object GenerateToken(UsuarioExterno usuario);
+       
     }
 }

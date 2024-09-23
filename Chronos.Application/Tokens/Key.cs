@@ -8,6 +8,6 @@ namespace Chronos.Application.Tokens
 {
     public class Key
     {
-        public static string Secret = "ABC123";
+        public static string Secret = "bFwdZKGFDxM2Bxt4rH3zwxvt6P9DHRrZ6Xcf7CkHftU9TQsCCC2rA9XmeUDAc6E8";
     }
 }

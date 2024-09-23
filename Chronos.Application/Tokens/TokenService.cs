@@ -12,7 +12,9 @@ namespace Chronos.Application.Tokens
 {
     public class TokenService : ITokenService
     {
-        private static object GenerateStaticToken(UsuarioExterno usuario)
+        
+
+        public static object GenerateToken(UsuarioExterno usuario)
         {
             var key = Encoding.ASCII.GetBytes(Key.Secret);
 
@@ -36,11 +38,6 @@ namespace Chronos.Application.Tokens
             {
                 token = tokenString
             };
-        }
-
-        public object GenerateToken(UsuarioExterno usuario)
-        {
-            return GenerateStaticToken(usuario);
-        }
+        }         
     }
 }
