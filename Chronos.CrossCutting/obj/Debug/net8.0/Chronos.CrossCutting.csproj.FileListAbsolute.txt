@@ -36,8 +36,10 @@ C:\Users\zsant\source\repos\Chronos\Chronos,CrossCutting\obj\Debug\net8.0\ref\Ch
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.CrossCutting.deps.json
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.CrossCutting.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.CrossCutting.pdb
+C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Application.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Domain.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Infraestructure.dll
+C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Application.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Domain.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\bin\Debug\net8.0\Chronos.Infraestructure.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.CrossCutting\obj\Debug\net8.0\Chronos.CrossCutting.csproj.AssemblyReference.cache

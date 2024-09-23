@@ -16,12 +16,17 @@ C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Application.runtimeconfig.json
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Application.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Application.pdb
+C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Domain.dll
+C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Infraestructure.dll
+C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Domain.pdb
+C:\Users\zsant\source\repos\Chronos\Chronos.Application\bin\Debug\net8.0\Chronos.Infraestructure.pdb
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.csproj.AssemblyReference.cache
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.AssemblyInfoInputs.cache
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.AssemblyInfo.cs
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.csproj.CoreCompileInputs.cache
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.sourcelink.json
+C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos..E2CA1B8B.Up2Date
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\refint\Chronos.Application.dll
 C:\Users\zsant\source\repos\Chronos\Chronos.Application\obj\Debug\net8.0\Chronos.Application.pdb

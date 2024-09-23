@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Chronos.Domain.Entities;
+using Chronos.Domain.Entities._Main;
 using System;
 using System.Collections.Generic;
 using System.Linq;

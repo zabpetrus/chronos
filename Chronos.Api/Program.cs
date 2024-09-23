@@ -1,3 +1,4 @@
+using AutoMapper;
 using Chronos.Domain.Entities;
 using Chronos.Infraestructure.Context;
 using Chronos_CrossCutting.Services;
@@ -9,13 +10,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+DependencyInjectionService.RegisterDependencies(builder.Configuration, builder.Services);
 
-var connection = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContextPool<ApplicationDbContext>(options => options.UseSqlServer(connection));
 
-builder.Services.AddIdentity<Usuario, Perfil>()
-    .AddEntityFrameworkStores<ApplicationDbContext>()
-    .AddDefaultTokenProviders();
+
+builder.Services.AddAuthentication(options => {
+
+});
 
 builder.Services.Configure<IdentityOptions>(options =>
 {
@@ -41,8 +42,7 @@ builder.Services.Configure<IdentityOptions>(options =>
 
 
 
-
-builder.Services.AddAutoMapper(cfg => AutoMapperProfiles.RegisterProfiles(cfg));
+builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

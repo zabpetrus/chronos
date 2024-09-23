@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.Test", "Chronos.Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.CrossCutting", "Chronos.CrossCutting\Chronos.CrossCutting.csproj", "{B25B7222-5379-4BC9-A4D4-D742D2EC307A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronos.CrossCutting.Security", "Chronos.CrossCutting.Security\Chronos.CrossCutting.Security.csproj", "{F400496A-1767-44DF-9D07-F69D61ADAE4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B25B7222-5379-4BC9-A4D4-D742D2EC307A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F400496A-1767-44DF-9D07-F69D61ADAE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F400496A-1767-44DF-9D07-F69D61ADAE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F400496A-1767-44DF-9D07-F69D61ADAE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F400496A-1767-44DF-9D07-F69D61ADAE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

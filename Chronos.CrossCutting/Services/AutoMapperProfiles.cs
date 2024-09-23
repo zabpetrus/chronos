@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Chronos.Application.ViewModel;
+using Chronos.Domain.Entities;
 using Chronos_CrossCutting.Profiles;
 using System;
 using System.Collections.Generic;
@@ -8,12 +10,17 @@ using System.Threading.Tasks;
 
 namespace Chronos_CrossCutting.Services
 {
-    public class AutoMapperProfiles
+    public class AutoMapperProfiles : Profile
     {
-        public static void RegisterProfiles(IMapperConfigurationExpression cfg)
+        public AutoMapperProfiles()
         {
-            cfg.AddProfile<UsuariosProfile>();
-            cfg.AddProfile<PerfisProfile>(); 
+            // Definição dos mapeamentos aqui
+            CreateMap<UsuarioExterno, UsuarioExternoViewModel>(); 
+            CreateMap<UsuarioExternoViewModel, UsuarioExterno>(); 
+            CreateMap<UsuarioInterno, UsuarioInternoViewModel>();
+            CreateMap<UsuarioInternoViewModel, UsuarioInterno>();
         }
+
+   
     }
 }
