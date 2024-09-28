@@ -10,5 +10,6 @@ namespace Chronos.Domain.Entities
 {
     public class PerfilExterno : Perfil
     {
+        public TipoPerfilExterno TipoPerfil { get; set; }
     }
 }

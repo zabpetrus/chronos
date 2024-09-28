@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chronos.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88cd101c99b9c47b3070f570ecc28fec54198a0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+904f61dc58f2075a1707185740ac74dd6bd19f35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chronos.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chronos.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

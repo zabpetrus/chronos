@@ -1,4 +1,5 @@
-﻿using Chronos.Application.Tokens;
+﻿using Chronos.Application.Interfaces;
+using Chronos.Application.Tokens;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,6 +12,14 @@ namespace Chronos.Api.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
+
+        private readonly IAuthAppService _authappService;
+
+        public AuthController(IAuthAppService authappService)
+        {
+            _authappService = authappService;
+        }
+
         /// <summary>
         /// Auth
         /// </summary>
@@ -20,13 +29,15 @@ namespace Chronos.Api.Controllers
         [HttpPost]
         public IActionResult Auth(string username, string password)
         {
-            if(username == "admin" || password == "123456")
+            try
             {
-                var token = TokenService.GenerateToken( new Domain.Entities.UsuarioExterno() );
+                TokenResult token = _authappService.Login(username, password);
                 return Ok(token);
             }
-
-            return BadRequest("Login ou senha invalidos");
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }              
         }
     }
 }

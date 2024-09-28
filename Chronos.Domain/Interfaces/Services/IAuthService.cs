@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chronos.Domain.Enum
+namespace Chronos.Domain.Interfaces.Services
 {
-    public enum TipoPerfil
+    public interface IAuthService
     {
-        Interno = 1,
-        Externo = 2
     }
 }

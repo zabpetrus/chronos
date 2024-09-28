@@ -1,7 +1,12 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Chronos.Api.Controllers
 {
+    /// <summary>
+    /// Weather Forecast Controller
+    /// </summary>
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -17,7 +22,10 @@ namespace Chronos.Api.Controllers
         {
             _logger = logger;
         }
-
+        /// <summary>
+        /// Get
+        /// </summary>
+        /// <returns>An IEnumerable of WeatherForecast.</returns>
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {

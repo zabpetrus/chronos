@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Chronos.Application.ViewModel;
 using Chronos.Domain.Entities;
-using Chronos_CrossCutting.Profiles;
+using Chronos.Domain.Entities._Main;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +19,10 @@ namespace Chronos_CrossCutting.Services
             CreateMap<UsuarioExternoViewModel, UsuarioExterno>(); 
             CreateMap<UsuarioInterno, UsuarioInternoViewModel>();
             CreateMap<UsuarioInternoViewModel, UsuarioInterno>();
+            CreateMap<PerfilInternoViewModel, PerfilInterno>();
+            CreateMap<PerfilInterno, PerfilInternoViewModel>();
+            CreateMap<PerfilExternoViewModel, PerfilExterno>();
+            CreateMap<PerfilExterno, PerfilExternoViewModel>();
         }
 
    

@@ -9,6 +9,7 @@ namespace Chronos.Api.Controllers
     /// <summary>
     /// Usuarios Internos Controller
     /// </summary>
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UsuariosInternosController : ControllerBase
@@ -24,7 +25,6 @@ namespace Chronos.Api.Controllers
         /// Get All
         /// </summary>
         /// <returns>An IActionResult.</returns>
-        [Authorize]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -36,7 +36,6 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="id">An Id</param>
         /// <returns>An IActionResult.</returns>
-        [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetById(long id)
         {
@@ -49,7 +48,6 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="model">A Model</param>
         /// <returns>An IActionResult.</returns>
-        [Authorize]
         [HttpPost]
         public IActionResult Create([FromBody] UsuarioInternoViewModel model)
         {
@@ -63,7 +61,6 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="model">A Model</param>
         /// <returns>An IActionResult.</returns
-        [Authorize]
         [HttpPut]
         public IActionResult Update([FromBody] UsuarioInternoViewModel model)
         {
@@ -75,7 +72,6 @@ namespace Chronos.Api.Controllers
         /// </summary>
         /// <param name="id">An Id</param>
         /// <returns>An IActionResult.</returns>
-        [Authorize]
         [HttpDelete]
         public IActionResult DeleteById(long id)
         {

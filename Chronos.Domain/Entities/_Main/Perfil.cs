@@ -8,9 +8,7 @@ namespace Chronos.Domain.Entities._Main
     {
         public string Nome { get; set; }
 
-        public string Description { get; set; }
-
-        public TipoPerfil TipoPerfil { get; set; }
+        public string Description { get; set; }         
 
     }
 }

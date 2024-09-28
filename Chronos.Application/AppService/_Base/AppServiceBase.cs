@@ -10,8 +10,8 @@ namespace Chronos.Application.AppService._Base
     /// <summary>
     /// Classe base para serviços de aplicação, fornecendo operações CRUD genéricas.
     /// </summary>
-    /// <typeparam name="T">Tipo do modelo de aplicação.</typeparam>
-    /// <typeparam name="P">Tipo do modelo de domínio.</typeparam>
+    /// <typeparam name="T"> Uma ViewModel </typeparam>
+    /// <typeparam name="P"> Entidade do Dominio correspondente </typeparam>
     public class AppServiceBase<T, P> : IAppServiceBase<T> where T : class where P : class
     {
         private readonly IServiceBase<P> _serviceBase;

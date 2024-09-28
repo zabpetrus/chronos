@@ -25,6 +25,7 @@ namespace Chronos.Application.Tokens
                     new Claim("usuarioId", value: usuario.Id.ToString()),
 
                  }),
+
                 Expires = DateTime.UtcNow.AddHours(3),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
             };

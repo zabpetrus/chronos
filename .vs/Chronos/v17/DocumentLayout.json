@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\zsant\\source\\repos\\Chronos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\viewmodel\\perfilinternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\viewmodel\\perfilinternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\viewmodel\\usuariointernoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\viewmodel\\usuariointernoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\viewmodel\\usuarioexternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\viewmodel\\usuarioexternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\viewmodel\\perfilexternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\viewmodel\\perfilexternoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522034F8-4D93-43BE-B4E2-16E775D21454}|Chronos.Domain\\Chronos.Domain.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.domain\\entities\\_main\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522034F8-4D93-43BE-B4E2-16E775D21454}|Chronos.Domain\\Chronos.Domain.csproj|solutionrelative:chronos.domain\\entities\\_main\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522034F8-4D93-43BE-B4E2-16E775D21454}|Chronos.Domain\\Chronos.Domain.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.domain\\entities\\_base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522034F8-4D93-43BE-B4E2-16E775D21454}|Chronos.Domain\\Chronos.Domain.csproj|solutionrelative:chronos.domain\\entities\\_base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.crosscutting\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25B7222-5379-4BC9-A4D4-D742D2EC307A}|Chronos.CrossCutting\\Chronos.CrossCutting.csproj|solutionrelative:chronos.crosscutting\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|solutionrelative:chronos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.api\\controllers\\perfilinternocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|solutionrelative:chronos.api\\controllers\\perfilinternocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.api\\controllers\\perfilexternocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|solutionrelative:chronos.api\\controllers\\perfilexternocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|solutionrelative:chronos.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\tokens\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\tokens\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\tokens\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\tokens\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.application\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB13048-1A79-47C6-B95F-B4F714DE8EE4}|Chronos.Application\\Chronos.Application.csproj|solutionrelative:chronos.application\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|c:\\users\\zsant\\source\\repos\\chronos\\chronos.api\\controllers\\usuariosinternoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487DE8A5-3DEB-4135-820A-FF4EDEE0E6F5}|Chronos.Api\\Chronos.Api.csproj|solutionrelative:chronos.api\\controllers\\usuariosinternoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,67 +154,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuariosInternosController.cs",
-              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\UsuariosInternosController.cs",
-              "RelativeDocumentMoniker": "Chronos.Api\\Controllers\\UsuariosInternosController.cs",
-              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\UsuariosInternosController.cs",
-              "RelativeToolTip": "Chronos.Api\\Controllers\\UsuariosInternosController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAwwE0AAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsuarioInternoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\UsuarioInternoViewModel.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\ViewModel\\UsuarioInternoViewModel.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\UsuarioInternoViewModel.cs",
+              "RelativeToolTip": "Chronos.Application\\ViewModel\\UsuarioInternoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T22:07:48.885Z",
+              "WhenOpened": "2024-09-28T02:11:16.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Key.cs",
-              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\Key.cs",
-              "RelativeDocumentMoniker": "Chronos.Application\\Tokens\\Key.cs",
-              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\Key.cs",
-              "RelativeToolTip": "Chronos.Application\\Tokens\\Key.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "UsuarioExternoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\UsuarioExternoViewModel.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\ViewModel\\UsuarioExternoViewModel.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\UsuarioExternoViewModel.cs",
+              "RelativeToolTip": "Chronos.Application\\ViewModel\\UsuarioExternoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:57:56.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\TokenService.cs",
-              "RelativeDocumentMoniker": "Chronos.Application\\Tokens\\TokenService.cs",
-              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\TokenService.cs",
-              "RelativeToolTip": "Chronos.Application\\Tokens\\TokenService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:33:00.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Chronos.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Chronos.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:19:39.508Z",
+              "WhenOpened": "2024-09-28T02:11:14.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PerfilInternoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\PerfilInternoViewModel.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\ViewModel\\PerfilInternoViewModel.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\PerfilInternoViewModel.cs",
+              "RelativeToolTip": "Chronos.Application\\ViewModel\\PerfilInternoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:11:10.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfilExternoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\PerfilExternoViewModel.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\ViewModel\\PerfilExternoViewModel.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\ViewModel\\PerfilExternoViewModel.cs",
+              "RelativeToolTip": "Chronos.Application\\ViewModel\\PerfilExternoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:10:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Domain\\Entities\\_Main\\Perfil.cs",
+              "RelativeDocumentMoniker": "Chronos.Domain\\Entities\\_Main\\Perfil.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Domain\\Entities\\_Main\\Perfil.cs",
+              "RelativeToolTip": "Chronos.Domain\\Entities\\_Main\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:10:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Domain\\Entities\\_Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Chronos.Domain\\Entities\\_Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Domain\\Entities\\_Base\\Entity.cs",
+              "RelativeToolTip": "Chronos.Domain\\Entities\\_Base\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:10:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Program.cs",
               "RelativeDocumentMoniker": "Chronos.Api\\Program.cs",
               "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Program.cs",
               "RelativeToolTip": "Chronos.Api\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAUwDEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:12:51.351Z",
+              "WhenOpened": "2024-09-28T02:04:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Chronos.CrossCutting\\Services\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:04:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfilInternoController.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\PerfilInternoController.cs",
+              "RelativeDocumentMoniker": "Chronos.Api\\Controllers\\PerfilInternoController.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\PerfilInternoController.cs",
+              "RelativeToolTip": "Chronos.Api\\Controllers\\PerfilInternoController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAvwFUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:57:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerfilExternoController.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\PerfilExternoController.cs",
+              "RelativeDocumentMoniker": "Chronos.Api\\Controllers\\PerfilExternoController.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\PerfilExternoController.cs",
+              "RelativeToolTip": "Chronos.Api\\Controllers\\PerfilExternoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:45:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Chronos.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Chronos.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:44:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\Tokens\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Chronos.Application\\Tokens\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:34:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\TokenService.cs",
+              "RelativeDocumentMoniker": "Chronos.Application\\Tokens\\TokenService.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Chronos\\Chronos.Application\\Tokens\\TokenService.cs",
+              "RelativeToolTip": "Chronos.Application\\Tokens\\TokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:33:25.535Z",
               "EditorCaption": ""
             }
           ]

@@ -35,23 +35,31 @@ namespace Chronos_CrossCutting.Services
         {
                services.AddScoped<IUsuarioExternoService, UsuarioExternoService>();
                services.AddScoped<IUsuarioInternoService, UsuarioInternoService>();
+               services.AddScoped<IPerfilExternoService, PerfilExternoService>();
+               services.AddScoped<IPerfilInternoService, PerfilInternoService>();
         }
 
         private static void RegisterApplicationServices(IServiceCollection services)
         {
             services.AddScoped<IUsuarioExternoAppService, UsuarioExternoAppService>();
             services.AddScoped<IUsuarioInternoAppService, UsuarioInternoAppService>();
+            services.AddScoped<IPerfilExternoAppService, PerfilExternoAppService>();
+            services.AddScoped<IPerfilInternoAppService, PerfilInternoAppService>();
         }
 
         private static void RegisterInfrastructures(IServiceCollection services)
         {
              services.AddScoped<ITokenService, TokenService>();
+             services.AddScoped<JwtTokenGenerator>();
+             services.AddScoped<IAuthAppService, AuthAppService>();
         }
 
         private static void RegisterRepositories(IServiceCollection services)
         {
             services.AddScoped<IUsuarioExternoRepository, UsuarioExternoRepository>();
             services.AddScoped<IUsuarioInternoRepository, UsuarioInternoRepository>();
+            services.AddScoped<IPerfilExternoRepository, PerfilExternoRepository>();
+            services.AddScoped<IPerfilInternoRepository, PerfilInternoRepository>();
         }
     }
 }
